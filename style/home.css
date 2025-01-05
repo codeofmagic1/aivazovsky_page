@@ -1,9 +1,9 @@
 .home {
     text-align: center;
+    padding: 0 0 70px 0;
 }
 
 .home-title {
-    font-family: var(--font-family);
     font-weight: 700;
     font-size: 45px;
     color: var(--black);
@@ -12,7 +12,6 @@
 }
 
 .home-description {
-    font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
     color: var(--black);
